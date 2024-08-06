@@ -4,5 +4,6 @@
     "project_description": "add an app to find new blockchain information",
     "creation_time": "2024-08-06 13:53:18.358019",
     "current_state": "The current state of the application has a navbar and a header",
-    "selected_starter_template_id": "landwind"
+    "selected_starter_template_id": "landwind",
+    "frontend_theme_prompt": "The website uses a dark-themed color scheme with deep blues and purples, complemented by bright accents of neon pink and white text. The style is modern and tech-focused, emphasizing clean lines, subtle gradients, and interactive elements like buttons and icons."
 }
